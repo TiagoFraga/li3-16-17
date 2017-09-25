@@ -1,0 +1,17 @@
+engine/comparators/ArticleCharacters.class
+engine/Artigo.class
+engine/Artigos.class
+engine/comparators/ContributorsCount.class
+li3/Interface.class
+engine/QueryEngineImpl.class
+engine/ComparatorContribuidor.class
+engine/comparators/ArticleWords.class
+engine/ComparatorArtigoCaracteres.class
+engine/Revisoes.class
+engine/ComparatorArtigoPalavras.class
+engine/Contribuidor.class
+common/MyLog.class
+engine/Contribuidores.class
+engine/Revisao.class
+li3/Main.class
+engine/Parser.class
